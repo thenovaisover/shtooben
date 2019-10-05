@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "286da7040fc773e317d0b7f092af18e3",
+    "revision": "135c674f9ca1f7032227842472d1bc46",
     "url": "/shtooben/index.html"
   },
   {
-    "revision": "9d94e472e435fd4d91d1",
-    "url": "/shtooben/static/css/main.99c92ae9.chunk.css"
+    "revision": "8a84ff812a04637a1dd0",
+    "url": "/shtooben/static/css/main.a8d8d597.chunk.css"
   },
   {
     "revision": "9d5d72347c6a3e2f98a2",
     "url": "/shtooben/static/js/2.017a8401.chunk.js"
   },
   {
-    "revision": "9d94e472e435fd4d91d1",
-    "url": "/shtooben/static/js/main.492e1876.chunk.js"
+    "revision": "8a84ff812a04637a1dd0",
+    "url": "/shtooben/static/js/main.134e17ac.chunk.js"
   },
   {
     "revision": "f2fe6fe3bc2171be7ff6",
     "url": "/shtooben/static/js/runtime-main.976895c7.js"
+  },
+  {
+    "revision": "7ee756a166e0c789c56369c8624a55a9",
+    "url": "/shtooben/static/media/One.7ee756a1.otf"
   },
   {
     "revision": "bfef1d6d956d796fe783ebf50dfb7a89",
