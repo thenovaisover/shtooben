@@ -150,13 +150,15 @@ const Feel = () => {
             significantly unintelligent{" "}
             <h2>
               society<br />
+              <br /><br />
               <br />
               will<br />think <span className="fancy">for</span> you
               <br />
+              <br /><br />
               <br />
               if you don't
             </h2>
-            <br />
+          
             Think for yourself.
           </h1>
         </div>
