@@ -33,32 +33,11 @@ html,
 body,
 #root,
 .App {
-  width: 100%;
-  height: 100%;
-}
-
-
-.App {
   text-align: center;
-}
-
-
-
-
-
-.about,
-.truth,
-.feel {
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   width: 100%;
   height: 100%;
-  background-color: rgb(38, 111, 179);
-  font-size: 1.5rem;
-  
 }
+
 .course {
   line-height: 3.5em;
     overflow: hidden;
@@ -71,7 +50,7 @@ body,
 }
 
 header .truth .inner h1 {
-font-size: 2rem;
+font-size: 4rem;
 text-shadow: 0px 4px 15px white, 0px -5px 13px black,
   0px 18px 23px white;
 }
@@ -118,17 +97,17 @@ text-shadow: 0px 4px 3px rgba(79, 1, 50, 0.55), 0px 5px 13px rgb(45, 5, 187),
 
 header .course .inner h2{
   padding: 1.3em;
-  background-color: rgba(26, 138, 198, 0.2);
+  background-color: rgba(87, 196, 255, 0.42);
   line-height: 240%;
   border: 0.1em ridge lightskyblue;
-  font-family: "Heady";
-  color: white;
+  font-family: "One";
+  color: black;
   text-shadow: 0px 2px 10px white, 1px 2px 13px black, 0px 6px 12px black;
-  font-size: 2rem;
+  font-size: 25px;
 }
 header .inner h2 {
   margin: auto;
-  color: orangered;
+  color: rgb(158, 180, 255);
   text-shadow: 0px 2px 1px black, 1px 2px 13px white, 0px -1px 12px black;
   font-size: 2rem;
 }
@@ -144,60 +123,20 @@ header .inner h2 {
   object-fit: fill;
 }
 
-.inner h1 {
-  font-family: "Heady";
-  height: 100%;
-  width: 100%;
-  color: white;
-  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 5px 13px lightblue,
-    0px 18px 23px rgba(0, 0, 0, 0.1);
-  font-size: 3rem;
-  /*background-color: rgba(0, 0, 0, 0.8);*/
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: bottom;
-}
-
-.tekts {
-  min-width: 620px;
-}
-
-.about img,
-.course img,
-.goal img {
-  width: 400px;
-  border-radius: 10px;
-}
-
-.truth,
-.feel,
-.contact {
-  background-color: black;
-  
-}
-
-.course {
-  font-size: 1.2rem;
-}
-
 .fancy {
   font-style: bold;
   color: white;
   text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px -2px 10px lightskyblue,
     0px -1px 1px rgba(0, 78, 196, 0.495);
 }
-.namesies {
- padding-bottom: 1%;
-  border: 3px ridge lightblue;
-}
+
 
 @media only screen and (max-width: 800px) {
   .about,
   .truth,
   .course,
   .feel,
-  .goal,
-  .contact {
+  .goal {
     font-size: 1rem;
   }
 
