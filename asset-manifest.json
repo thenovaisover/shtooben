@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/shtooben/static/css/main.99c92ae9.chunk.css",
+    "main.js": "/shtooben/static/js/main.492e1876.chunk.js",
+    "main.js.map": "/shtooben/static/js/main.492e1876.chunk.js.map",
+    "runtime-main.js": "/shtooben/static/js/runtime-main.976895c7.js",
+    "runtime-main.js.map": "/shtooben/static/js/runtime-main.976895c7.js.map",
+    "static/js/2.017a8401.chunk.js": "/shtooben/static/js/2.017a8401.chunk.js",
+    "static/js/2.017a8401.chunk.js.map": "/shtooben/static/js/2.017a8401.chunk.js.map",
+    "index.html": "/shtooben/index.html",
+    "precache-manifest.f9deffa4eb29aa35d7533b1b501eae73.js": "/shtooben/precache-manifest.f9deffa4eb29aa35d7533b1b501eae73.js",
+    "service-worker.js": "/shtooben/service-worker.js",
+    "static/css/main.99c92ae9.chunk.css.map": "/shtooben/static/css/main.99c92ae9.chunk.css.map",
+    "static/media/black.mp4": "/shtooben/static/media/black.bfef1d6d.mp4",
+    "static/media/App.css": "/shtooben/static/media/ir.8c4dd610.ttf",
+    "static/media/inward.mp4": "/shtooben/static/media/inward.d817051c.mp4",
+    "static/media/m.mov": "/shtooben/static/media/m.c5b4c1f3.mov",
+    "static/media/mm.mp4": "/shtooben/static/media/mm.d221044e.mp4",
+    "static/media/mn.mp4": "/shtooben/static/media/mn.351f4c0a.mp4",
+    "static/media/n.mp4": "/shtooben/static/media/n.db301927.mp4",
+    "static/media/nm.mp4": "/shtooben/static/media/nm.b6d65550.mp4",
+    "static/media/nn.mp4": "/shtooben/static/media/nn.ade63e1d.mp4",
+    "static/media/qq.mp4": "/shtooben/static/media/qq.0ea2864c.mp4",
+    "static/media/thread.mp4": "/shtooben/static/media/thread.da282c7e.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.976895c7.js",
+    "static/js/2.017a8401.chunk.js",
+    "static/css/main.99c92ae9.chunk.css",
+    "static/js/main.492e1876.chunk.js"
+  ]
+}
